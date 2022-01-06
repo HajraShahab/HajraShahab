@@ -4,7 +4,7 @@
 
 - 🌱 What I am upto now
 
-•	Currently enrolled in MS Data Analytics program at Carnegie Mellon University (expected graduation May 2022). The Data Analytics track is a highly selective STEM certified program that includes robust coursework in data mining & machine learning, statistics & modeling, and computer programming!
+- Currently enrolled in MS Data Analytics program at Carnegie Mellon University (expected graduation May 2022). The Data Analytics track is a highly selective STEM certified program that includes robust coursework in data mining & machine learning, statistics & modeling, and computer programming!
 
 - 📫 How to reach me 
 
