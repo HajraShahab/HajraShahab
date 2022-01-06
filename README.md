@@ -7,6 +7,7 @@ My undergraduate training in Economics coupled with my on-going graduate studies
 - 🌱 What I am upto now
 
 •	Currently enrolled in MS Data Analytics program at Carnegie Mellon University (expected graduation May 2022). The Data Analytics track is a highly selective STEM certified program that includes robust coursework in data mining & machine learning, statistics & modeling, and computer programming!
+
 •	Seeking personal and professional growth 
 
 - 📫 How to reach me 
