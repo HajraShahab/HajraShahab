@@ -7,7 +7,7 @@ Read more: https://hajrashahab.github.io/
 
 - 👀 I’m interested in Product Analytics, Data Science, Data-Driven Decision Analytics and anything and everything that makes me stop and wonder!
 
-- 🌱 What I've learned so far:
+🌱 What I've learned so far:
 
 - Data Mining techniques 
 - Mathematical and computational foundations of Machine Learning 
