@@ -5,7 +5,7 @@
 [Linkedin](https://www.linkedin.com/in/hajrashahab/)
 [Twitter](https://twitter.com/HajraShahab)
 [Medium](https://hajrashahab.medium.com/)
-[Email](hajrashahab05@gmail.com & hshahab@andrew.cmu.edu)
+[Email](hajrashahab05@gmail.com)
 
 <!---
 HajraShahab/HajraShahab is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
