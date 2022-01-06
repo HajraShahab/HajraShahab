@@ -16,7 +16,7 @@
 - Optimization and Decision Science for business & product analytics 
 - Relational and non-relational database management (SQL and NoSQL (Cassandra, MongoDB, Redis, Neo4j))
 - Unstructured data analytics 
-- Data visualization techniques to support data-driven results for technical and non-technical audience using Tableau, Rshiny, R and Python
+- Data visualization techniques using Tableau, Python, R, Rshiny to support data-driven results for technical and non-technical audience 
 - [Read more](https://hajrashahab.github.io/)
 
 📫 How to reach me 
