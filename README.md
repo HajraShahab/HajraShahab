@@ -1,11 +1,22 @@
-- 👋 Hi, I’m @HajraShahab
+- 👋 Hi there! I am Hajra Shahab and welcome to my Github profile!
 
-- 👀 I’m interested in Product Analytics, Data Science and anything that makes me stop and wonder!
-
-- 🌱 What I am upto now
+- 🌱 What I am upto these days
 
 Currently enrolled in MS Data Analytics program at Carnegie Mellon University (expected graduation May 2022). The Data Analytics track is a highly selective STEM certified program that includes robust coursework in data mining & machine learning, statistics & modeling, and computer programming!
 Read more: https://hajrashahab.github.io/
+
+- 👀 I’m interested in Product Analytics, Data Science, Data-Driven Decision Analytics and anything and everything that makes me stop and wonder!
+
+- 🌱 What I've learned so far:
+
+• Data Mining techniques 
+• Mathematical and computational foundations of Machine Learning 
+• Statistical and modeling using econometrics analysis in R & STATA
+• AB Testing and Data Science for product management & analytics 
+• Optimization and Decision Science for business & product analytics 
+• Relational and non-relational database management (SQL and NoSQL (Cassandra, MongoDB, Redis, Neo4j))
+• Unstructured data analytics 
+• Data visualization techniques to support data-driven results for technical and non-technical audience using Tableau, Rshiny, R and Python
 
 - 📫 How to reach me 
 
