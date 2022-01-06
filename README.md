@@ -1,14 +1,10 @@
 - 👋 Hi, I’m @HajraShahab
 
-My undergraduate training in Economics coupled with my on-going graduate studies in Data Analytics and Management at Carnegie Mellon University has helped me develop an interdisciplinary understanding of data-driven decisions. I have a profound interest in statistical methods, data analytics, machine learning, data visualization and human-computer interaction. 
-
 - 👀 I’m interested in Product Analytics, Data Science and anything that makes me stop and wonder!
 
 - 🌱 What I am upto now
 
 •	Currently enrolled in MS Data Analytics program at Carnegie Mellon University (expected graduation May 2022). The Data Analytics track is a highly selective STEM certified program that includes robust coursework in data mining & machine learning, statistics & modeling, and computer programming!
-
-•	Seeking personal and professional growth 
 
 - 📫 How to reach me 
 
