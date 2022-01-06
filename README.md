@@ -9,10 +9,10 @@ Read more: https://hajrashahab.github.io/
 
 - 🌱 What I've learned so far:
 
-• Data Mining techniques 
-• Mathematical and computational foundations of Machine Learning 
-• Statistical and modeling using econometrics analysis in R & STATA
-• AB Testing and Data Science for product management & analytics 
+- Data Mining techniques 
+- Mathematical and computational foundations of Machine Learning 
+- Statistical and modeling using econometrics analysis in R & STATA
+- AB Testing and Data Science for product management & analytics 
 • Optimization and Decision Science for business & product analytics 
 • Relational and non-relational database management (SQL and NoSQL (Cassandra, MongoDB, Redis, Neo4j))
 • Unstructured data analytics 
