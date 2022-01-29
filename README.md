@@ -17,6 +17,7 @@
 - Relational and non-relational database management (SQL and NoSQL (Cassandra, MongoDB, Redis, Neo4j))
 - Unstructured data analytics 
 - Data visualization techniques using Tableau, Python, R, ArcGIS, Rshiny to support data-driven results for technical and non-technical audience 
+- Dashboard visualizations using tools such as Rshiny, Mapbox, Kepler.gl, etc. to develop data stories, visualize product metrics and dynamic models
 - [Read more](https://hajrashahab.github.io/)
 
 📫 How to reach me 
